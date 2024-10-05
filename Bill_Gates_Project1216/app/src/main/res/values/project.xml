@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="project">
+        <item>...</item>
+        <item>수학1</item>
+        <item>컴퓨터과학과코딩</item>
+        <item>C언어기초</item>
+        <item>컴퓨터공학총론</item>
+        <item>수학2</item>
+        <item>C++프로그래밍</item>
+        <item>이산수학</item>
+        <item>선형대수학</item>
+        <item>초급프로젝트</item>
+        <item>자료구조</item>
+        <item>객체지향프로그래밍</item>
+        <item>논리설계</item>
+        <item>리눅스프로그래밍</item>
+        <item>확률과통계</item>
+        <item>알고리즘</item>
+        <item>모바일프로그래밍</item>
+        <item>프로그램구조와해석</item>
+        <item>컴퓨터구조</item>
+        <item>데이터통신</item>
+        <item>수치해석및최적화</item>
+        <item>인공지능</item>
+        <item>데이터베이스</item>
+        <item>프로그래밍언어론</item>
+        <item>운영체제</item>
+        <item>컴퓨터네트워크</item>
+        <item>컴퓨터그래픽스</item>
+        <item>기계학습</item>
+        <item>데이터마이닝</item>
+        <item>웹서비스설계</item>
+        <item>소프트웨어공학</item>
+        <item>디지털시스템설계</item>
+        <item>클라우드컴퓨팅</item>
+        <item>암호론</item>
+        <item>게임및혼합현실</item>
+        <item>컴퓨터비전</item>
+        <item>자연어처리</item>
+        <item>인간-컴퓨터상호작용</item>
+        <item>컴파일러</item>
+        <item>임베디드시스템</item>
+        <item>오픈소스SW 개발</item>
+        <item>센서네트워크</item>
+        <item>네트워크보안</item>
+        <item>딥러닝</item>
+        <item>정보검색</item>
+        <item>시스템보안</item>
+    </string-array>
+    <string-array name="select">
+        <item>...</item>
+        <item>교양</item>
+        <item>전공선택</item>
+        <item>전공필수</item>
+        <item>일반선택</item>
+    </string-array>
+    <string-array name="grade">
+        <item>...</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+</resources>

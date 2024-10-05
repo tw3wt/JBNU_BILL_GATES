@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/roadmap"
+        android:title="메인" />
+    <item
+        android:id="@+id/grade"
+        android:title="학점계산기"/>
+    <item
+        android:id="@+id/menu3"
+        android:title="랭킹"/>
+    <item
+        android:id="@+id/option"
+        android:title="설정"/>
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:title="https://www.youtube.com/watch?v=O4v7EjN5hYA" />
+    <item
+        android:id="@+id/menu_item2"
+        android:title="https://www.youtube.com/watch?v=nqhZ68_kdyc" />
+    <item
+        android:id="@+id/menu_item3"
+        android:title="https://www.youtube.com/watch?v=Zq40gRdkjhA" />
+</menu>
